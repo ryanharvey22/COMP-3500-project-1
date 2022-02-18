@@ -1,0 +1,55 @@
+Line Number: 5
+Letter Count: 14
+
+Line Number: 1
+Letter Count: 83
+
+Line Number: 6
+Letter Count: 84
+
+Line Number: 3
+Letter Count: 84
+
+Line Number: 18
+Letter Count: 89
+
+Line Number: 7
+Letter Count: 89
+
+Line Number: 13
+Letter Count: 91
+
+Line Number: 12
+Letter Count: 91
+
+Line Number: 9
+Letter Count: 91
+
+Line Number: 2
+Letter Count: 91
+
+Line Number: 8
+Letter Count: 92
+
+Line Number: 15
+Letter Count: 93
+
+Line Number: 14
+Letter Count: 93
+
+Line Number: 4
+Letter Count: 94
+
+Line Number: 10
+Letter Count: 95
+
+Line Number: 11
+Letter Count: 96
+
+Line Number: 17
+Letter Count: 99
+
+Line Number: 16
+Letter Count: 99
+
+Total Number of Characters: 1568

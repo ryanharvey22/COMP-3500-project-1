@@ -1,0 +1,73 @@
+Process ID: 11240
+Line Number: 5
+Letter Count: 14
+
+Process ID: 11236
+Line Number: 1
+Letter Count: 83
+
+Process ID: 11241
+Line Number: 6
+Letter Count: 84
+
+Process ID: 11238
+Line Number: 3
+Letter Count: 84
+
+Process ID: 11253
+Line Number: 18
+Letter Count: 89
+
+Process ID: 11242
+Line Number: 7
+Letter Count: 89
+
+Process ID: 11248
+Line Number: 13
+Letter Count: 91
+
+Process ID: 11247
+Line Number: 12
+Letter Count: 91
+
+Process ID: 11244
+Line Number: 9
+Letter Count: 91
+
+Process ID: 11237
+Line Number: 2
+Letter Count: 91
+
+Process ID: 11243
+Line Number: 8
+Letter Count: 92
+
+Process ID: 11250
+Line Number: 15
+Letter Count: 93
+
+Process ID: 11249
+Line Number: 14
+Letter Count: 93
+
+Process ID: 11239
+Line Number: 4
+Letter Count: 94
+
+Process ID: 11245
+Line Number: 10
+Letter Count: 95
+
+Process ID: 11246
+Line Number: 11
+Letter Count: 96
+
+Process ID: 11252
+Line Number: 17
+Letter Count: 99
+
+Process ID: 11251
+Line Number: 16
+Letter Count: 99
+
+Total Number of Characters: 1568
